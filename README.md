@@ -64,10 +64,12 @@ def main(
         max_ruido (float): amplitude do ruído da mutação uniforme
     """
 
+## Resultados
+Exemplo de resultado: 
 
-Exemplo de resultado : <img width="983" height="816" alt="image" src="https://github.com/user-attachments/assets/ba24fcf2-538e-4557-93a2-7ce287249059" />
+![Gráfico 3D da função](https://github.com/user-attachments/assets/ba24fcf2-538e-4557-93a2-7ce287249059)
 
-<img width="1249" height="794" alt="image" src="https://github.com/user-attachments/assets/8f8b45c1-4258-4665-8001-61398d083b88" />
+![Evolução do fitness](https://github.com/user-attachments/assets/8f8b45c1-4258-4665-8001-61398d083b88)
 
-<img width="530" height="103" alt="image" src="https://github.com/user-attachments/assets/def760f8-6573-4c32-a6b0-e738ca7883d4" />
+![Melhor indivíduo](https://github.com/user-attachments/assets/def760f8-6573-4c32-a6b0-e738ca7883d4)
 
