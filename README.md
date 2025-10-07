@@ -33,6 +33,16 @@ O projeto também gera gráficos 3D da função e acompanha a evolução do fitn
 
 ---
 
+## Resultados
+Exemplo de resultado: 
+
+![Gráfico 3D da função](https://github.com/user-attachments/assets/ba24fcf2-538e-4557-93a2-7ce287249059)
+
+![Evolução do fitness](https://github.com/user-attachments/assets/8f8b45c1-4258-4665-8001-61398d083b88)
+
+![Melhor indivíduo](https://github.com/user-attachments/assets/def760f8-6573-4c32-a6b0-e738ca7883d4)
+
+
 ## Estrutura da função `main`
 
 ```python
@@ -64,12 +74,4 @@ def main(
         max_ruido (float): amplitude do ruído da mutação uniforme
     """
 
-## Resultados
-Exemplo de resultado: 
-
-![Gráfico 3D da função](https://github.com/user-attachments/assets/ba24fcf2-538e-4557-93a2-7ce287249059)
-
-![Evolução do fitness](https://github.com/user-attachments/assets/8f8b45c1-4258-4665-8001-61398d083b88)
-
-![Melhor indivíduo](https://github.com/user-attachments/assets/def760f8-6573-4c32-a6b0-e738ca7883d4)
 
